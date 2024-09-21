@@ -11,5 +11,5 @@ repositories:
 
   humble_ws:
     type: git
-    url: https://github.com/renanmb/humble_ws_v01.git
+    url: https://github.com/boredengineering/humble_isaacros_ws_demo.git
     version: main
